@@ -80,11 +80,7 @@ a.snake-link:hover {
 }
 
 .snake-food-block {
-    margin: 0px;
-    padding: 0px;
-    background-color: #FF0000;
-    border: 0px solid #000080;
-    position: absolute;
+background-image: url('./images/cell-clipart-KTn49dATq.png');
 }
 
 .snake-playing-field {
