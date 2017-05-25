@@ -17,3 +17,7 @@ initialized in div tags within a page. Example:
                                     
 The comments are formatted a little strange because at the time I was playing
 around with YUI Doc.
+
+______________________________________________________________________________
+
+This version is just a reskin. Little to no original code
